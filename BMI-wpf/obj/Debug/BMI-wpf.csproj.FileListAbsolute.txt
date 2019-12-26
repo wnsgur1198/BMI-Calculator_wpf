@@ -1,0 +1,31 @@
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\bin\Debug\BMI-wpf.exe.config
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.csprojResolveAssemblyReference.cache
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\MainWindow.g.cs
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\App.g.cs
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf_MarkupCompile.cache
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf_MarkupCompile.lref
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\bin\Debug\BMI-wpf.exe
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\bin\Debug\BMI-wpf.pdb
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\MainWindow.baml
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.g.resources
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\BMI_wpf.Properties.Resources.resources
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.csproj.GenerateResource.Cache
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.exe
+c:\users\hlk\documents\visual studio 2015\Projects\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.pdb
+G:\대학\2학년\설계\과제\BMI-wpf\BMI-wpf\bin\Debug\BMI-wpf.exe.config
+G:\대학\2학년\설계\과제\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.exe
+G:\대학\2학년\설계\과제\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.pdb
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\bin\Debug\BMI-wpf.exe.config
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\bin\Debug\BMI-wpf.exe
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\bin\Debug\BMI-wpf.pdb
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.csprojAssemblyReference.cache
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\MainWindow.g.cs
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\App.g.cs
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf_MarkupCompile.cache
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf_MarkupCompile.lref
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\MainWindow.baml
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.g.resources
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\BMI_wpf.Properties.Resources.resources
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.csproj.GenerateResource.cache
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.exe
+C:\Users\wnsgu\Downloads\과제\BMI-wpf\BMI-wpf\obj\Debug\BMI-wpf.pdb

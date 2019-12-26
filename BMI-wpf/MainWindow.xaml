@@ -1,0 +1,18 @@
+﻿<Window x:Class="BMI_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BMI_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="txtHeight" HorizontalAlignment="Left" Height="30" Margin="226,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <TextBox x:Name="txtWeight" HorizontalAlignment="Left" Height="39" Margin="226,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <Button x:Name="button" Content="BMI계산" HorizontalAlignment="Left" Height="32" Margin="226,185,0,0" VerticalAlignment="Top" Width="129" Click="button_Click"/>
+        <TextBlock x:Name="신장_m_" HorizontalAlignment="Left" Height="30" Margin="90,61,0,0" TextWrapping="Wrap" Text="신장(m)" VerticalAlignment="Top" Width="74"/>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Height="30" Margin="90,130,0,0" TextWrapping="Wrap" Text="체중(kg)" VerticalAlignment="Top" Width="74"/>
+        <TextBlock x:Name="txtResult" HorizontalAlignment="Left" Height="34" Margin="106,242,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="288"/>
+
+    </Grid>
+</Window>
